@@ -1,0 +1,129 @@
+#Gizlilik Politikası
+
+*Toplanan Veri Türleri:
+Cihaz kimliği, reklam kimliği, işletim sistemi versiyonu, cihaz modeli vb. (uygulama optimizasyonu ve hata tespiti için).
+
+*Kullanım Verileri:
+Uygulamada geçirilen süre, hangi hikayelerin dinlendiği, hangi kategorilerin ziyaret edildiği (içerik önerileri ve uygulama geliştirme için).
+
+*Anonimleştirilmiş Analitik Veriler:
+Google Analytics for Firebase gibi araçlarla toplanan, kişiyi tanımlamayan veriler.
+
+*Reklam Kimlikleri:
+Reklam yayıncıları tarafından hedeflenmiş reklamlar için kullanılan kimlikler.
+
+*Verilerin Kullanım Amaçları:
+Uygulama işlevselliğini sağlamak.
+Kullanıcı deneyimini kişiselleştirmek (örneğin, dinleme geçmişine göre hikaye önerileri).
+Uygulama performansını analiz etmek ve iyileştirmek.
+Hizmet ve destek sağlamak.
+Yasal yükümlülükleri yerine getirmek.
+Hedeflenmiş reklamlar sunmak.
+
+*Veri Paylaşımı:
+Verileriniz doğrudan üçüncü taraf hizmet sağlayıcıları ile paylaşılmamaktadır. 
+
+*Veri Saklama Süresi:
+Veriler saklanmaz.
+
+*Kullanıcı Hakları:
+Kullanıcıların verilerine erişme, düzeltme, silme veya işlemeyi kısıtlama hakları yoktur.
+Elektronik iletişim kanalları aracılığı ile öneri ve değerlendirmede bulunabilir.
+
+Gizlilik Politikası Güncellemeleri: Kullanıcılar, politikalarda değişiklik yapıldığında internet sitemizdeki ilgili sayfa üzerinden ulaşabilir.
+
+*İletişim Bilgileri:
+www.ondergokmen.com
+ondergokmen@gmail.com
+
+#Uygulama Erişimi (İzinler)
+Sadece uygulamanın çalışması için gerçekten gerekli olan izinler istenecektir.
+
+*İnternet Erişimi:
+Hikayeleri sunucudan çekmek ve ses dosyalarını oynatmak için.
+
+*Ağ Durumu Bilgisi:
+İnternet bağlantısının olup olmadığını kontrol etmek ve kullanıcıya buna göre bildirimde bulunmak için.
+
+*Harici Depolama Okuma/Yazma:
+Hikayeleri veya ses dosyalarını cihazda önbelleğe alma/indirme özelliği için.
+
+*Uyanık Kalma:
+Kullanıcı hikaye dinlerken ekranın kapanmasını engellemek için.
+
+#Reklam
+Dahili Reklamlar:
+Uygulamanız içinde Google AdMob, Unity Ads gibi üçüncü taraf reklam ağlarından gelen reklamlar.
+
+*Banner Reklamlar:
+Uygulama ekranının alt veya üst kısmında görünen küçük reklam şeritleri.
+
+*Geçiş Reklamları:
+Genellikle ekranın tamamını kaplayan ve iki uygulama ekranı arasında görünen reklamlar.
+
+*Ödüllü Reklamlar:
+Kullanıcıların reklam izleyerek uygulama içi ödüller (örneğin, ek hikaye erişimi, reklamsız dinleme süresi) kazandığı reklamlar.
+
+*Yerel Reklamlar:
+Uygulamanın kendi içeriğiyle bütünleşik görünen reklamlar.
+
+*Uygulamanın hedef kitlesi çocuklardır (13 yaş altı)
+Kişiselleştirilmiş reklam gösterilmez ve reklam içerikleri çocuklara uygun olarak gösterilir
+Google Play'in "Aileler için" programına ve COPPA (Children's Online Privacy Protection Act) kurallarına uyulur.
+
+*Reklam Sıklığı ve Kullanıcı Deneyimi: Reklamlar kullanıcı deneyimini bozmayacak şekilde yerleştirilmez.
+
+#İçerik Derecelendirme
+Google Play Store'dan uygulama derecesi alınmıştır(13 yaş altı).
+
+*Şiddet: Hikayelerde şiddet içeren sahneler bulunmaz.
+*Cinsel İçerik: Cinsel göndermeler veya açık sahneler bulunmaz.
+*Kaba Dil: Argo, küfür veya uygunsuz dil bulunmaz.
+*Uyuşturucu Kullanımı: Uyuşturucu, alkol veya tütün kullanımı teşvik edici içerik bulunmaz.
+*Korku/Gerilim: Korkutucu veya rahatsız edici içerik bulunmaz.
+*Kumar: Kumarla ilgili herhangi bir özellik veya gönderme bulunmaz.
+*Kullanıcı Etkileşimi: Kullanıcılar birbirleriyle etkileşim kuramaz
+*İnternet Erişimi: İnternet erişimi gerekir. 
+
+#Hedef Kitle
+Çocuklar (Okul Öncesi,İlkokul+13):
+Yapay zeka tarafından oluşturulmuş "kategoriler halinde listeleme" özelliği, farklı yaş gruplarına ve ilgi alanlarına göre içerik sunma esnekliği sağlar.
+
+#Veri Güvenliği
+Veri iletişimi (uygulama ile sunucu arasında) yoktur.
+
+*Depolanan veriler: Cihazda hassas veri depolanmaz.
+Sunucu Güvenliği için güvenli bulut hizmetleri (AWS, Google Cloud, Azure) kullanılır.
+
+*Veri Minimizasyonu:
+Yalnızca uygulamanızın çalışması için kesinlikle gerekli olan veriler toplanır.
+
+*Erişim Kontrolü:
+Toplanan verilere yalnızca yetkili personel erişebilir.
+
+*Hata ve Güvenlik Açığı Denetimi:
+Uygulama ve sunucular düzenli olarak güvenlik açıkları açısından test edilir.
+
+*Veri İhlali Bildirimi:
+Olası bir veri ihlali durumunda kullanıcılar internet sitesi üzerinden bilgilendirilir.
+
+Uygulama hassas kişisel veri (banka bilgisi, kimlik no vb.) toplamadığı için risk yoktur.
+Hikaye içerikleri güvenli bir şekilde sunucudan akış yapılır.
+
+#Resmi Kurum Uygulamaları
+Uygulamanın doğrudan resmi bir kurumla (devlet dairesi, banka, hastane vb.) bir bağlantısı yoktur.
+
+#Finans İle İlgili Özellikler
+Uygulamanın doğrudan finansal işlemler veya hassas bankacılık bilgileriyle ilgili özellikleri yoktur.
+Uygulama İçi satın almalar yoktur fakat ileride eklenebilir.
+
+*Kredi Kartı Bilgisi Toplama:
+Uygulama doğrudan kredi kartı bilgisi toplamaz.
+Gerekirse Google Play'in veya üçüncü taraf ödeme ağ geçitlerinin (Stripe, Braintree vb.) güvenli ödeme sistemlerini kullanabilir. Bu sistemler, ödeme bilgilerini uygulamadan bağımsız olarak işler.
+
+#Sağlık
+Uygulama doğrudan sağlık hizmetleri, tıbbi cihazlar veya kişisel sağlık bilgileriyle ilgili değildir.
+Uygulamanın ana amacı eğlence ve kültürel içerik sunmaktır.
+"uykuya dalmaya yardımcı hikayeler" gibi içerikler tıbbi bir tedavi
+
+</body></html>
